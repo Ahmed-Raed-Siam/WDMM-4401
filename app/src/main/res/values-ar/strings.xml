@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">الواجب الثالث التطبيق الثاني</string>
+    <string name="title">أحمد رائد صيام (120170736)</string>
+    <string name="name_text">الاسم</string>
+    <string name="my_name">أحمد رائد صيام</string>
+    <string name="my_age">22</string>
+    <string name="name_input_hint">ادخل اسمك</string>
+    <string name="age_text">العمر</string>
+    <string name="age_input_hint">ادخل عمرك</string>
+    <string name="gender_text">الجنس</string>
+    <string name="country_text">الدولة</string>
+    <string name="graduate_question">هل انت خريج؟</string>
+    <string name="graduate_text">خريج</string>
+    <string name="undergraduate_text">غير خريج</string>
+    <string name="satisfied_text">هل أنت راض عن دورة الأندرويد؟</string>
+    <string name="male_text">ذكر</string>
+    <string name="female_text">أنثي</string>
+    <string name="submit_text">إرسال</string>
+    <string-array name="countries_list">
+        <item>اختر الدولة</item>
+        <item> روسيا </item>
+        <item> إسبانيا </item>
+        <item> المغرب </item>
+        <item> اليابان </item>
+        <item> الولايات المتحدة </item>
+        <item> إيران </item>
+        <item> أفغانستان </item>
+        <item> فلسطين </item>
+        <item> فرنسا </item>
+        <item> الصين </item>
+        <item> أستراليا </item>
+        <item> السويد </item>
+        <item> المملكة المتحدة </item>
+        <item> ألمانيا </item>
+    </string-array>
+</resources>

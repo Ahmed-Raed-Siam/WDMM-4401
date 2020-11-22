@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Homework3_Application2(120170736)</string>
+    <string name="title">Ahmed Raed Siam (120170736)</string>
+    <string name="name_text">Name</string>
+    <string name="my_name">Ahmed Raed Siam</string>
+    <string name="my_age">22</string>
+    <string name="name_input_hint">Enter your name</string>
+    <string name="age_text">Age</string>
+    <string name="age_input_hint">Enter your age</string>
+    <string name="gender_text">Gender</string>
+    <string name="country_text">Country</string>
+    <string name="graduate_question">Are you a graduate?</string>
+    <string name="graduate_text">Graduate</string>
+    <string name="undergraduate_text">Undergraduate</string>
+    <string name="satisfied_text">Are you satisfied with the android course?</string>
+    <string name="male_text">Male</string>
+    <string name="female_text">Female</string>
+    <string name="submit_text">Submit</string>
+    <string-array name="countries_list">
+        <item>Choose country</item>
+        <item>Russia</item>
+        <item>Spain</item>
+        <item>Morocco</item>
+        <item>Japan</item>
+        <item>United State</item>
+        <item>Iran</item>
+        <item>Afghanistan</item>
+        <item>Palestine</item>
+        <item>France</item>
+        <item>China</item>
+        <item>Australia</item>
+        <item>Sweden</item>
+        <item>United Kingdom</item>
+        <item>Germany</item>
+    </string-array>
+</resources>
