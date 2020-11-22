@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">الواجب الثالث التطبيق الأول</string>
+    <string name="TODO">لفعل</string>
+    <string name="tally_counter">عداد العد</string>
+    <string name="input_text">المسبحة</string>
+    <string name="count_text">عدد التسبيحات</string>
+    <string name="rest_text">افرغ الحقل</string>
+</resources>

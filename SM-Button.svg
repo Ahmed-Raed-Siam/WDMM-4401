@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39" height="39" viewBox="0 0 39 39">
+  <g id="SM-Button" transform="translate(-252 -409)">
+    <circle id="Base" cx="19.5" cy="19.5" r="19.5" transform="translate(252 409)" fill="#cdcccc"/>
+    <circle id="Sec" cx="15.5" cy="15.5" r="15.5" transform="translate(256 413)" fill="#e6e6e5"/>
+  </g>
+</svg>

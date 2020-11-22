@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework 3_Application1(120170736)</string>
+    <string name="TODO">TODO</string>
+    <string name="tally_counter">Tally Counter</string>
+    <string name="input_text">Masbaha</string>
+    <string name="count_text">Count</string>
+    <string name="rest_text">rest</string>
+</resources>

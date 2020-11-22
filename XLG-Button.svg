@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 108 108">
+  <g id="XLG-Button" transform="translate(-134 -460)">
+    <circle id="Base" cx="54" cy="54" r="54" transform="translate(134 460)" fill="#d66556"/>
+    <circle id="Sec" cx="48" cy="48" r="48" transform="translate(140 466)" fill="#cdcccc"/>
+    <circle id="Third" cx="38" cy="38" r="38" transform="translate(150 476)" fill="#e6e6e5"/>
+  </g>
+</svg>
